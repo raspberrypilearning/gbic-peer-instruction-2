@@ -1,4 +1,4 @@
-## Collecting pupil answers to Multiple Choice Questions
+## Collecting pupils' answers to Multiple Choice Questions
 
 In all of the 12 lessons, pupils will have the chance to vote for the correct answer in response to the Multiple Choice Questions (MCQs). Before you begin the project, it will be important to choose a voting system that you will use throughout all of the lessons. You can do this manually, using coloured cards or mini whiteboards for pupils to hold up showing their answers. Using a manual system can be good where digital systems are not available, or if you feel that the use of digital systems or web-based quizzes is not suitable for your learners. However, it can be more difficult for you to assess which misconceptions are most common amongst your pupils. 
 
@@ -10,7 +10,7 @@ Digital voting systems, such as clickers or web-based quizzes, have the advantag
 
 For Unit 2, Python Programming, you will need to decide which development environment you will be using. You can use a local installation of a Python interpreter and a learner-friendly IDE such as the Mu editor (codewith.mu), or you can use an online development environment such as Repl.it. You could also use both, but that may be confusing for learners. The Project Guide [link] includes some issues to consider when making this decision.
 
-![Python](images/gbic-peer-instruction-2-MuEditor.png)
+![Python](images/MuProg.png)
 
 ## Additional resources
 
