@@ -5,7 +5,7 @@ Make a note of anything that you need to clarify. You can also get in touch with
 
 ## Representations: from clay to silicon
 
-In this task, you will think about how each of the pre-instructions relates to the multiple choice questions (MCQs) in the lessons for Unit 1. You will begin planning how to use the Peer Instruction teaching approach with your own class(es).
+In this task, you will think about how each of the pre-instructions relates to the multiple choice questions (MCQs) in the lessons for Unit 1. You will begin planning how to use the Peer Instruction teaching approach with your own class.
 
 --- task --- 
 Read through the Unit 1 pre-instruction documents in each lesson, and identify the related MCQ in the MCQ slide deck and table. Think about how the pre-instruction tasks will work in your school context. This is a good time to start planning how you will incorporate the MCQs into your lessons, how you will group pupils, and whether you will use manual or digital methods to collect their responses to MCQs. 
