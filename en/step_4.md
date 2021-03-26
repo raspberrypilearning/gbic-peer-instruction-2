@@ -1,4 +1,4 @@
-## Producing effective Multiple Choice Questions
+## Multiple Choice Questions in Peer Instruction
 
 In the animation you saw in Session 1, you were shown this example of an Multiple Choice Question (MCQ)
 
