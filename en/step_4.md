@@ -5,7 +5,7 @@ In the animation you saw in Session 1, you were shown this example of an Multipl
 ![MCQex](images/MCQquestion.png)
 
 --- task ---
-Can you identify why the other answers are incorrect? Write down which key misconception a pupil would have if they chose each of the incorrect answers. 
+Can you identify why the 1st, 2nd and 4th answers are incorrect? Write down which key misconception a pupil holds if they choose each of these answers. 
 
 (provide misconceptions to un-hide)
 --- /task ---
