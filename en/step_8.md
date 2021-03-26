@@ -1,7 +1,7 @@
 ### Completion survey
 
 --- task ---
-Please complete the Year 8 Peer Instruction project training survey {:target="_blank"} to confirm that you have finished the course and provide some feedback.
+Please complete the Peer Instruction project training survey {:target="_blank"} to confirm that you have finished the course and provide some feedback.
 --- /task ---
   
 You have now completed the course. Thank you, and well done!
