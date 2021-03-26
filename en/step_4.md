@@ -15,7 +15,8 @@ Can you identify why the 1st, 2nd and 4th answers are incorrect? Write down whic
 --- task ---
 Now that you have seen an MCQ that can be used in Peer Instruction, can you write your own?
 
-Use a Year 8 unit of work that you are familiar with and identify a key concept that pupils need to understand in that unit. Remember that the question must address only one concept and that your incorrect answers must all represent a misconception associated with that concept. It might help to think about questions or common mistakes that you have encountered when teaching this unit. Remember the following principles for writing good MCQS:
+Use a Year 8 unit of work that you are familiar with and identify a key concept that pupils need to understand in that unit. It might help to think about questions or common mistakes that you have encountered when teaching this unit. Remember the following principles for writing good MCQS:
+
 + Each incorrect answer should identify a single misconception
 + Questions must be achievable and possible to answer quickly. Don’t make them too hard
 + Make sure the tense and grammar of every answer matches the question (for example, don't have a question that refers to a plural and then answers that are singular)
