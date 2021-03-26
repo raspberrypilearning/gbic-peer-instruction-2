@@ -2,7 +2,7 @@
 
 In all of the 12 lessons, pupils will have the chance to vote for the correct answer in response to the Multiple Choice Questions (MCQs). Before you begin the project, it will be important to choose a voting system that you will use throughout all of the lessons. You can do this manually, using coloured cards or mini whiteboards for pupils to hold up showing their answers. Using a manual system can be good where digital systems are not available, or if you feel that the use of digital systems or web-based quizzes is not suitable for your learners. However, it can be more difficult for you to assess which misconceptions are most common amongst your pupils. 
 
-![Voting](images/gbic-peer-instruction-2-PIVoting.png)
+![Voting](images/PIVoting.png)
 
 Digital voting systems, such as clickers or web-based quizzes, have the advantage of providing an automated aggregation of student responses. You are able to share graphs of the class answers, if you choose to, and quickly assess which misconceptions your pupils hold. However, these tools can make the MCQ cycle feel more like a summative test, and may lead to a greater focus on getting the correct answer, rather than developing understanding and engagement with the topic. Relying on these tools can also cause problems if they stop working or have setup issues during the lesson. It is important to consider these factors when choosing which voting system you will use for the Peer Instruction project.
 
