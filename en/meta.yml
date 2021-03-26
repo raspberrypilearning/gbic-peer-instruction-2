@@ -1,4 +1,4 @@
-title: gbic-peer-instruction-2
+ng title: gbic-peer-instruction-2
 hero_image: images/banner.png
 description: gbic-peer-instruction-2 description
 version: 4
@@ -6,6 +6,11 @@ listed: false
 copyedit: false
 last_tested: "2021-03-26"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Getting started
+  - title: Lesson plans and resources
+  - title: Technical setup
+  - title: Producing effective questions
+  - title: Setting up the classroom for Peer Instruction
+  - title: Teacher experience of Peer Instruction
+  - title: Explore the resources
+  - title: Completion survey
