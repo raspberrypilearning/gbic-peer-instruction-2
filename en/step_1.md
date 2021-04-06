@@ -1,6 +1,6 @@
 ## Introduction
 
-You will be using the Peer Instruction approach to teach representations and Python programming. Learners need not be familiar with the topics at the start of the trial. Educators should be familiar with the topics. Each lesson plan offers detailed reference to subject knowledge.  Unit 1 Lesson Plans include sections: ‘Notes on pedagogy’ and ‘Background knowledge’. Unit 2 includes a section on ‘Useful excerpts’. Both Units’ Lesson Plans include an ‘Additional source’ section with links to further reading opportunities and online courses.
+You will be using the Peer Instruction approach to teach representations and Python programming. Learners need not be familiar with the topics at the start of the project. Educators should be familiar with the topics. Each lesson plan offers detailed reference to subject knowledge.  Unit 1 Lesson Plans include sections: ‘Notes on pedagogy’ and ‘Background knowledge’. Unit 2 includes a section on ‘Useful excerpts’. Both Units’ Lesson Plans include an ‘Additional source’ section with links to further reading opportunities and online courses.
 
 This session focuses on building up your expertise in advance of the project, as well as familiarising yourself with the resources. Over the rest of this online course, you will have an opportunity to explore all the resources for yourself, try them out, and think about how to implement the sessions in your own classroom.
 
