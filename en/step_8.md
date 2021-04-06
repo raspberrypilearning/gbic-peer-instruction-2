@@ -1,7 +1,7 @@
 ### Completion survey
 
 --- task ---
-Please complete the Peer Instruction project [training survey](https://docs.google.com/forms/d/e/1FAIpQLScVqUr59TCeAwpu6b_Lsn5mlHXD-fCV7tZny4hE_rrRM4yoTA/viewform) {:target="_blank"} to confirm that you have finished the course and provide some feedback.
+Please complete the Peer Instruction project [training survey](https://docs.google.com/forms/d/e/1FAIpQLScVqUr59TCeAwpu6b_Lsn5mlHXD-fCV7tZny4hE_rrRM4yoTA/viewform) to confirm that you have finished the course and provide some feedback.
 --- /task ---
   
 You have now completed the course. Thank you, and well done!
