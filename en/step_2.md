@@ -29,6 +29,7 @@ Back in the main unit folder, you will also see documents mapping the concepts c
 Together, these will be all the resources you need to participate in the Peer Instruction project.
  
 Click the green button (below right) to go to the next step in this session.
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/).
+
+You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/gbic-peer-instruction-2).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-peer-instruction-training).
 
