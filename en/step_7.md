@@ -19,7 +19,7 @@ In this task, you will work through the live programming demonstrations in Unit 
 Work through the lesson plans and associated slides for Unit 2 Lessons 1-5 and highlight any ‘Live Walkthrough’ activities. Set up your chosen Python interpreter/IDE and practice the Live Walkthrough activities that you have highlighted, making sure that you are familiar with the instructions and confident that the outputs of the programs are what you expect. This preparation will help the lessons to run more smoothly.
 --- /task ---
 
-Click the green button (below right) to go to the next step.
-You can go back to the start of Part 2 here.
-You can access the menu for Parts 1, 2, and 3 here.
+Click the green button (below right) to go to the next step in this session.
 
+You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/gbic-peer-instruction-2).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-peer-instruction-training).
