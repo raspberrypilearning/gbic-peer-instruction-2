@@ -17,6 +17,6 @@ For Unit 2, Python Programming, you will need to decide which development enviro
 As you go through the lesson plans later in this course, you will notice that some lessons require additional resources for some of the unplugged activities. For example, in Unit 1 Lesson 2, pupils are asked to communicate in code using different types of devices (such as lights, musical instruments, paper, etc.). It is important that you read through the lesson plans carefully and identify any additional resources that will be needed.
  
 Click the green button (below right) to go to the next step in this session.
- 
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/).
+
+You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/gbic-peer-instruction-2).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-peer-instruction-training).
