@@ -9,7 +9,6 @@ Can you identify why the 1st, 2nd and 4th answers are incorrect? Write down whic
 
 --- /task ---
 
-Correct answers are on the next page.
 
 
 
