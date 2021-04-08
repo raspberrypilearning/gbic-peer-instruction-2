@@ -1,18 +1,27 @@
-As mentioned earlier in the course, it is important to be clear with your pupils about the purpose of the Peer Instruction approach and how it can benefit them. Introducing the teaching approach in the first lesson and explaining why it is being used is important to get pupils on board, and this message may need repeating throughout lessons and across the term. A vital part of the message should be that the questions being asked are **formative** and are not being used as a test that can affect pupils' grades. This should help engage pupils in the process over time.
+## Misconceptions
 
-## Duration of Peer Instruction activities
 
-Peer Instruction activities should be given as much time as possible, especially the discussion step. This allows different answers to be considered and different opinions in the group to be heard. It will allow you to walk between groups to monitor discussions and engagement and better understand pupils' thinking. Encourage your pupils to use the time they are allotted rather than choosing one answer quickly. It may take a few lessons for pupils to adapt to this type of group thinking.
 
-[group picture here?]
+## Write your own question
 
-## Formation of groups
+--- task ---
+Now that you have seen an MCQ that can be used in Peer Instruction, can you write your own?
 
-Pupils need to be able to easily discuss their answers in groups, so it will be important to set up your classroom so that discussion is not obstructed. Think about how groups can be formed in the physical space you have to produce minimum disruption in your lesson. This is particularly important because you will have several rounds of multiple choice questions during a lesson. 
+Use a Year 8 unit of work that you are familiar with and identify a key concept that pupils need to understand in that unit. It might help to think about questions or common mistakes that you have encountered when teaching this unit. Remember the following principles for writing good MCQS:
 
-In terms of group membership, you may wish to plan the groups in advance to take into account different levels of ability or pupils who will work together well, rather than forming groups based on the pupils’ choice of seat at the beginning of the lesson. You may also wish to mix up the groups for different lessons so that pupils have the opportunity to discuss the multiple choice questions with different people and thus avoid forming patterns of group behaviour where pupils either lead or disengage from the discussion.
++ Each incorrect answer should identify a single misconception
++ Questions must be achievable and possible to answer quickly. Don’t make them too hard
++ Make sure the tense and grammar of every answer matches the question (for example, don't have a question that refers to a plural and then answers that are singular)
++ Ensure each answer is independent and cannot be eliminated based on anything other than subject knowledge (i.e. don't include 'filler' answers)
 
-Click the green button (below right) to go to the next step in this session.
+--- /task ---
 
-You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/gbic-peer-instruction-2).
-You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-peer-instruction-training).
+--- task ---
+**Reflection activity:** *What did you learn from producing your own MCQ for Peer Instruction?*
+--- /task ---
+
+## Extension activity
+
+For pupils who show good understanding early in the process, you can ask them to complete the task you have just done as a challenge or extension. You will find a template provided for this activity in the resources.
++ Can they write an MCQ in which one of the other options would be correct?
++ Can they identify the misconceptions addressed by the incorrect answers?
