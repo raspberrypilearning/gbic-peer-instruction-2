@@ -2,17 +2,17 @@
 
 The misconceptions associated with each of the incorrect answers are as follows:
 
-+ **b**	
++ **Answer = b**	
 
-Misconception = the program prints ‘b’
+*Misconception = the program prints ‘b’*
 
-+ **a+1**	
++ **Answer = a+1**	
 
-Misconception = the program prints what we have been told ‘b’ stands for
+*Misconception = the program prints what we have been told ‘b’ stands for*
 
-+ **11**	
++ **Answer = 11**	
 
-Misconception = ‘a’ and ‘b’ have not been added but combined
+*Misconception = ‘a’ and ‘b’ have not been added but combined*
 
 
 ## Write your own question
