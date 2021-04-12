@@ -15,7 +15,7 @@ Open the [Peer Instruction resource portal](http://ncce.io/pi8), where you can e
 --- /task ---
 
 
-The main resources folder consists of four subfolders: Introduction to Peer Instruction, Unit 1_Representations: from clay to silicon, Unit 2_Python Programming, and Units Overview. 
+The main resources folder consists of four subfolders: Introduction to Peer Instruction, Unit 1 Representations: from clay to silicon, Unit 2 Python Programming, and Units Overview. 
 
 The resources prepared for the trial period include twelve 1-hour lessons. The first lesson provided is an introduction to Peer Instruction. In the subsequent weeks, you will be using **adapted versions** of lessons produced for the National Centre for Computing Education (NCCE) Teach Computing Curriculum. The lessons include 6 weeks of a unit on representations, which gradually introduces learners to binary digits and how they can be used to represent text and numbers. The concepts are linked to practical applications and problems that the learners are familiar with. 
 
