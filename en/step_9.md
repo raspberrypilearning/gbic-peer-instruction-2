@@ -6,7 +6,7 @@ Please complete the Peer Instruction project [training survey](https://docs.goog
   
 You have now completed the course. Thank you, and well done!
   
-You can get in touch with us by email if you have any queries at any time before, during, or after the project via genderresearch@raspberrypi.org.
+You can get in touch with us by email if you have any queries at any time before, during, or after the project via [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
 
 
 You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/gbic-peer-instruction-2).
