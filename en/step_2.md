@@ -2,7 +2,7 @@
 
 You will find the lesson plans, slides and associated resources in separate folders for the introductory lesson, the Representations unit and the Python unit, along with an MCQ bank for each unit. 
 
-Feel free to download the resources or access them each time you need them from the webpage. You may wish to bookmark the link to the resources in the browser toolbar of your tablet/iPad/computer for ease of reference in the classroom. You can also find links to all of the resources in your Project Guide and Units Overview.
+Feel free to download the resources or access them each time you need them from the webpage. You may wish to bookmark the link to the resources in the browser toolbar of your tablet/iPad/computer for ease of reference in the classroom. You can also find links to all of the resources in your [Project Guide](https://docs.google.com/document/d/17sTwXM-oZx3GL-rG6Ctglfqg-ONAW9SaB6p--2Vj99s/edit) and [Units Overview](https://docs.google.com/document/d/1eBrTQxOuugKFDbidHy9Ugt818tM_Kyvl8QucIYT-uHI/edit#).
 
 ## Pre-instructions
 
