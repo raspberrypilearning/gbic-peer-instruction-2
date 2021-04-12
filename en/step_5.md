@@ -3,12 +3,15 @@
 The misconceptions associated with each of the incorrect answers are as follows:
 
 + **b**	
+
 Misconception = the program prints ‘b’
 
 + **a+1**	
+
 Misconception = the program prints what we have been told ‘b’ stands for
 
 + **11**	
+
 Misconception = ‘a’ and ‘b’ have not been added but combined
 
 
