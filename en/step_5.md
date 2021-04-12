@@ -30,7 +30,7 @@ Use a Year 8 unit of work that you are familiar with and identify a key concept 
 --- /task ---
 
 --- task ---
-**Reflection activity:** *What did you learn from producing your own MCQ for Peer Instruction?*
+**Reflection activity:** What did you learn from producing your own MCQ for Peer Instruction?
 --- /task ---
 
 ## Extension activity
