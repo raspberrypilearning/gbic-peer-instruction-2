@@ -10,14 +10,14 @@ This session focuses on building up your expertise in advance of the project, as
 First, you are going to access the session resources that you will need for the Peer Instruction project.
 
 --- task ---
-Open the Peer Instruction resource portal{:target="_blank"}, where you can explore all the resources for Lessons 1 to 12. The webpage is the access portal for all the resources relating to the Peer Instruction project. 
+Open the [Peer Instruction resource portal](http://ncce.io/pi8), where you can explore all the resources for Lessons 1 to 12. The webpage is the access portal for all the resources relating to the Peer Instruction project. 
 
 --- /task ---
 
 
 The main resources folder consists of four subfolders: Introduction to Peer Instruction, Unit 1_Representations: from clay to silicon, Unit 2_Python Programming, and Units Overview. 
 
-The resources prepared for the trial period include twelve 1-hour lessons. The first lesson provided is an introduction to Peer Instruction. In the subsequent weeks, you will be using **adapted versions** of lessons produced for the National Centre for Computing Education (NCCE) Teach Computing Curriculum [link]. The lessons include 6 weeks of a unit on representations, which gradually introduces learners to binary digits and how they can be used to represent text and numbers. The concepts are linked to practical applications and problems that the learners are familiar with. 
+The resources prepared for the trial period include twelve 1-hour lessons. The first lesson provided is an introduction to Peer Instruction. In the subsequent weeks, you will be using **adapted versions** of lessons produced for the National Centre for Computing Education (NCCE) Teach Computing Curriculum. The lessons include 6 weeks of a unit on representations, which gradually introduces learners to binary digits and how they can be used to represent text and numbers. The concepts are linked to practical applications and problems that the learners are familiar with. 
 
 The second topic consists of 5 weeks of a unit introducing text-based programming in Python. The unit begins by considering the differences between algorithms and programs, moving on to producing simple programs in Python and developing understanding of different ways to control program execution, such as *if-else*, *if-elif-else*, and *while* statements.
 
