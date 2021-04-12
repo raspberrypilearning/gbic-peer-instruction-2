@@ -4,8 +4,6 @@ As mentioned earlier in the course, it is important to be clear with your pupils
 
 Peer Instruction activities should be given as much time as possible, especially the discussion step. This allows different answers to be considered and different opinions in the group to be heard. It will allow you to walk between groups to monitor discussions and engagement and better understand pupils' thinking. Encourage your pupils to use the time they are allotted rather than choosing one answer quickly. It may take a few lessons for pupils to adapt to this type of group thinking.
 
-[group picture here?]
-
 ## Formation of groups
 
 Pupils need to be able to easily discuss their answers in groups, so it will be important to set up your classroom so that discussion is not obstructed. Think about how groups can be formed in the physical space you have to produce minimum disruption in your lesson. This is particularly important because you will have several rounds of multiple choice questions during a lesson. 
