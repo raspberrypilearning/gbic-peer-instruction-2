@@ -8,7 +8,7 @@ Digital voting systems, such as clickers or web-based quizzes, have the advantag
 
 ## Programming tools
 
-For Unit 2, Python Programming, you will need to decide which development environment you will be using. You can use a local installation of a Python interpreter and a learner-friendly IDE such as the Mu editor (codewith.mu), or you can use an online development environment such as Repl.it. You could also use both, but that may be confusing for learners. The Project Guide [link] includes some issues to consider when making this decision.
+For Unit 2, Python Programming, you will need to decide which development environment you will be using. You can use a local installation of a Python interpreter and a learner-friendly IDE such as the Mu editor (codewith.mu), or you can use an online development environment such as Repl.it. You could also use both, but that may be confusing for learners. The [Project Guide](https://docs.google.com/document/d/17sTwXM-oZx3GL-rG6Ctglfqg-ONAW9SaB6p--2Vj99s/edit) includes some issues to consider when making this decision.
 
 ![Python](images/MuProg.png)
 
