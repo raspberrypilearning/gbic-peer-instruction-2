@@ -1,7 +1,7 @@
 As part of this project, we have already worked with some Year 8 teachers, who used the resources and gave us some really helpful feedback. 
 
 --- task ---
-Click on the link below to watch a video about one of our teachers’ experiences of taking part in the project, and some of her top tips for using Peer Instruction in the classroom.
+Click on the 'Peer Instruction Teacher Interview' link below to watch a video about one of our teachers’ experiences of taking part in the project, and some of her top tips for using Peer Instruction in the classroom.
 
 [Peer Instruction Teacher Interview](https://youtu.be/Nmf0zs524YY)
 
