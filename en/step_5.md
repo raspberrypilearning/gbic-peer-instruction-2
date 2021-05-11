@@ -23,7 +23,7 @@ Now that you have seen an MCQ that can be used in Peer Instruction, can you writ
 Use a Year 8 unit of work that you are familiar with and identify a key concept that pupils need to understand in that unit. It might help to think about questions or common mistakes that you have encountered when teaching this unit. Remember the following principles for writing good MCQS:
 
 + Each incorrect answer should identify a single misconception
-+ Questions must be achievable and possible to answer quickly. Don’t make them too hard
++ Questions must be achievable and possible to answer quickly — don’t make them too hard
 + Make sure the tense and grammar of every answer matches the question (for example, don't have a question that refers to a plural and then answers that are singular)
 + Ensure each answer is independent and cannot be eliminated based on anything other than subject knowledge (i.e. don't include 'filler' answers)
 
