@@ -4,13 +4,13 @@ As mentioned earlier in the course, it is important to be clear with your pupils
 
 ## Duration of Peer Instruction activities
 
-Peer Instruction activities should be given as much time as possible, especially the discussion step, which allows different answers to be considered and different opinions in the group to be heard. You should walk between groups to monitor discussions and engagement to better understand pupils' thinking. Encourage your pupils to use the time they are given rather than choosing one answer quickly. It may take a few lessons for pupils to adapt to this type of group thinking.
+Peer Instruction activities should be given as much time as possible, especially the discussion step, which allows different answers to be considered and different opinions in the group to be heard. You should walk between groups to monitor discussions and engagement to better understand pupils' ideas. Encourage your pupils to use the time they are given rather than choosing one answer quickly. It may take a few lessons for pupils to adapt to this type of group thinking.
 
 ## Formation of groups
 
 Pupils need to be able to easily discuss their answers in groups, so it will be important to set up your classroom so that discussion is not obstructed. Think about how groups can be formed in the physical space you have to produce minimum disruption in your lesson. This is particularly important because you will have several rounds of multiple choice questions during a lesson. 
 
-In terms of group membership, you may wish to plan the groups in advance to take into account different levels of ability or pupils who will work together well, rather than forming groups based on the pupils’ choice of seat at the beginning of the lesson. You may also wish to mix up the groups for different lessons so that pupils have the opportunity to discuss the multiple choice questions with different people and thus avoid forming patterns of group behaviour where pupils either lead or disengage from the discussion.
+In terms of group membership, you may wish to plan the groups in advance to take into account different levels of ability or pupils who will work together well, rather than forming groups based on the pupils’ seating preferences at the beginning of the lesson. You may also wish to mix up the groups for different lessons so that pupils have the opportunity to discuss the multiple choice questions with different people and thus avoid forming patterns of group behaviour where pupils either lead or disengage from the discussion.
 
 Click the green button (below right) to go to the next step in this session.
 
