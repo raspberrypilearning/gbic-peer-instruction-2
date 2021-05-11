@@ -6,7 +6,7 @@ Feel free to download the resources or access them each time you need them from 
 
 ## Pre-instructions
 
-Pre-instruction tasks are provided to accompany each of the lessons. They introduce pupils to a concept to be explored from home in advance of the next lesson. Pre-instruction is different to homework. It is pre-preparation — a teaching approach which is also used in ‘flipped learning’. 
+Pre-instruction tasks are provided to accompany each of the lessons. They introduce pupils to a concept to be explored from home in advance of the next lesson. Pre-instruction is different from homework. It is pre-preparation — a teaching approach which is also used in ‘flipped learning’. 
 
 For the first lesson, 'Introduction to Peer Instruction', the pre-instruction worksheet should be completed during the lesson. This allows teachers to explain the purpose of the pre-instruction and how it relates to the teaching approach and the following lessons. For the following weeks, pre-instruction tasks are provided with their corresponding lessons (e.g. the Lesson 2 pre-instruction task can be found in the Lesson 2 folder).
 
@@ -18,7 +18,7 @@ If your school has restrictions on setting weekly/regular work to be completed a
 
 ## Multiple choice questions
 
-The multiple choice questions (MCQs) have been provided in a separate folder within each unit. The questions across the unit are grouped together so teachers can utilise the slides in the lesson as well as navigate between slides in real time response to the classes’ answers. The question bank also enables teachers to add in their own alternative questions and distractor answers over time.
+The multiple choice questions (MCQs) have been provided in a separate folder within each unit. The questions across the unit are grouped together so teachers can use the slides in the lesson and navigate between slides in real time to respond to the pupils’ answers. The question bank also enables teachers to add in their own alternative questions and distractor answers over time.
 
 MCQs, answers, and distractors are provided in table form for the teacher, as well as learner-facing questions and answers in slide form. Both documents need to be available in every lesson:  the slides to present to the pupils and the table in printed form for easy access. An MCQ prompt slide has been placed in each lesson’s slides at the appropriate place in the lesson as a reminder to teachers to ask the allocated question provided in the MCQ bank. You may choose to incorporate the relevant MCQ in the main slide deck in place of these prompt slides to avoid swapping between slide decks during the lesson.
 
