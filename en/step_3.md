@@ -14,7 +14,7 @@ In Unit 2 – Python programming, you will need to select a development environm
 
 ## Additional resources
 
-As you go through the lesson plans later in this course, you will notice that some lessons require additional resources for some of the unplugged activities. For example, in Unit 1 – Lesson 2, pupils are asked to communicate in code using different types of devices (such as lights, musical instruments, paper, etc.). It is important that you read through the lesson plans carefully and identify any additional resources that you will need. 
+As you go through the lesson plans later in this course, you will notice that some lessons require additional resources for some of the Unplugged activities. For example, in Unit 1 – Lesson 2, pupils are asked to communicate in code using different types of devices (such as lights, musical instruments, paper, etc.). It is important that you read through the lesson plans carefully and identify any additional resources that you will need. 
  
 Click the green button (below right) to go to the next step in this session.
 
