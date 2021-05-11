@@ -1,6 +1,6 @@
 ## Multiple choice questions in Peer Instruction
 
-In the animation you saw in Session 1, you were shown this example of a multiple choice question (MCQ)
+In the animation you saw in Session 1, you were shown this example of a multiple choice question (MCQ).
 
 ![A multiple choice question that asks 'Read the Python program below: a = 1, b = a+1, print(b). What will be the output of the program?'. There are four answers to choose from: b, a+1, 2, 11.](images/MCQquestion.png)
 
