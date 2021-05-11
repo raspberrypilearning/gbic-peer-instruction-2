@@ -1,8 +1,10 @@
-As mentioned earlier in the course, it is important to be clear with your pupils about the purpose of the Peer Instruction approach and how it can benefit them. Introducing the teaching approach in the first lesson and explaining why it is being used is important to get pupils on board, and this message may need repeating throughout lessons and across the term. A vital part of the message should be that the questions being asked are **formative** and are not being used as a test that can affect pupils' grades. This should help engage pupils in the process over time.
+## Setting up the classroom for Peer Instruction  
+
+As mentioned earlier in the course, it is important to be clear with your pupils about the purpose of the 'Peer Instruction' approach and how it can benefit them. Introducing the teaching approach in the first lesson and explaining why it is being used is important to get pupils on board, and this message may need repeating throughout lessons and across the term. A vital part of the message should be that the questions being asked are **formative** and are not being used as a test that can affect pupils' grades. This should help engage pupils in the process over time.
 
 ## Duration of Peer Instruction activities
 
-Peer Instruction activities should be given as much time as possible, especially the discussion step. This allows different answers to be considered and different opinions in the group to be heard. It will allow you to walk between groups to monitor discussions and engagement and better understand pupils' thinking. Encourage your pupils to use the time they are allotted rather than choosing one answer quickly. It may take a few lessons for pupils to adapt to this type of group thinking.
+Peer Instruction activities should be given as much time as possible, especially the discussion step, which allows different answers to be considered and different opinions in the group to be heard. You should walk between groups to monitor discussions and engagement to better understand pupils' thinking. Encourage your pupils to use the time they are given rather than choosing one answer quickly. It may take a few lessons for pupils to adapt to this type of group thinking.
 
 ## Formation of groups
 
