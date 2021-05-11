@@ -12,7 +12,7 @@ For the first lesson, 'Introduction to Peer Instruction', the pre-instruction wo
 
 The pre-instructions range from text-based, to a video on a concept, to a visual such as a diagram or mind map. The resources always offer a context for the pre-instruction task, such as:
 
-*“This pre-instruction task aims to get you thinking in advance of the next lesson. You are able to undertake online research about the images in order to answer the questions below. This work will not be marked — it will, however, form the basis of questions you will be asked at the beginning of the lesson.”*
+*“This pre-instruction task aims to get you thinking in advance of the next lesson. You are able to research the images online to answer the questions below. This work will not be marked — but it will form the basis of questions you will be asked at the beginning of the lesson.”*
 
 If your school has restrictions on setting weekly/regular work to be completed at home, it is advised that you set pre-instructions to be completed at home to suit your school’s policy. For any remaining pre-instructions, ask pupils to complete them alone and in silence at the beginning of the relevant lesson.
 
@@ -20,7 +20,7 @@ If your school has restrictions on setting weekly/regular work to be completed a
 
 The multiple choice questions (MCQs) have been provided in a separate folder within each unit. The questions across the unit are grouped together so teachers can use the slides in the lesson and navigate between slides in real time to respond to the pupils’ answers. The question bank also enables teachers to add in their own alternative questions and distractor answers over time.
 
-MCQs, answers, and distractors are provided in table form for the teacher, as well as learner-facing questions and answers in slide form. Both documents need to be available in every lesson:  the slides to present to the pupils and the table in printed form for easy access. An MCQ prompt slide has been placed in each lesson’s slides at the appropriate place in the lesson as a reminder to teachers to ask the allocated question provided in the MCQ bank. You may choose to incorporate the relevant MCQ in the main slide deck in place of these prompt slides to avoid swapping between slide decks during the lesson.
+MCQs, answers, and distractors are provided in tables on the document for the teacher, as well as learner-facing questions and answers on a slide deck. Both documents need to be available in every lesson: the slides to present to the pupils and the table in printed form for you to access easily. An MCQ prompt slide has been placed in each lesson’s slides at the appropriate place in the lesson as a reminder to ask the question(s) provided in the MCQ bank. You may choose to incorporate the relevant MCQ in the main slide deck in place of these prompt slides to avoid swapping between slide decks during the lesson.
 
 ## Other resources
 
