@@ -1,11 +1,11 @@
-## Multiple Choice Questions in Peer Instruction
+## Multiple choice questions in Peer Instruction
 
-In the animation you saw in Session 1, you were shown this example of an Multiple Choice Question (MCQ)
+In the animation you saw in Session 1, you were shown this example of a multiple choice question (MCQ)
 
-![MCQex](images/MCQquestion.png)
+![A multiple choice question that asks 'Read the Python program below: a = 1, b = a+1, print(b). What will be the output of the program?'. There are four answers to choose from: b, a+1, 2, 11.](images/MCQquestion.png)
 
 --- task ---
-Can you identify why the 1st, 2nd and 4th answers are incorrect? Write down which key misconception a pupil holds if they choose each of these answers. 
+Can you identify why the first, second, and fourth answers are incorrect? Write down which key misconception a pupil holds if they choose each of these answers. 
 
 --- /task ---
 
