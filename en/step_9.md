@@ -1,7 +1,7 @@
 ### Completion survey
 
 --- task ---
-Please complete the [Peer Instruction training survey](https://docs.google.com/forms/d/e/1FAIpQLScVqUr59TCeAwpu6b_Lsn5mlHXD-fCV7tZny4hE_rrRM4yoTA/viewform) to confirm that you have finished the course and provide some feedback. This is required so that we can reimburse your school for supply cover.
+Please complete the [Peer Instruction training survey](https://form.raspberrypi.org/f/pitrainingsurvey) to confirm that you have finished the course and provide some feedback. This is required so that we can reimburse your school for supply cover.
 --- /task ---
   
 You have now completed the course. Thank you, and well done!
