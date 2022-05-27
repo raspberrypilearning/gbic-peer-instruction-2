@@ -1,22 +1,12 @@
 ---
-title: 'Session 2: ''Peer Instruction'' Teaching Approach training – Preparing for
-  the project'
-hero_image: images/introduction2.png
-description: Session 2 of the online training course helps teachers to prepare for
-  the 'Peer Instruction' Teaching Approach project through a series of tasks
+title: gbic-peer-instruction-2
+hero_image: images/banner.png
+description: gbic-peer-instruction-2 description
 version: 4
 listed: false
 copyedit: false
 last_tested: '2021-03-26'
 steps:
-- title: Getting started
-  completion: engaged
-- title: Lesson plans and resources
-- title: Technical setup
-- title: Effective multiple choice questions – part 1
-- title: Effective multiple choice questions – part 2
-- title: Setting up the classroom for Peer Instruction
-- title: Teacher experience of Peer Instruction
-- title: Explore the resources
-  completion: internal
-- title: Completion survey
+- title: Introduction
+- title: Step title
+- title: What next?
