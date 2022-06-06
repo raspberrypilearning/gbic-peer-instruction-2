@@ -10,7 +10,6 @@ copyedit: false
 last_tested: '2021-03-26'
 steps:
 - title: Getting started
-  completion: engaged
 - title: Lesson plans and resources
 - title: Technical setup
 - title: Effective multiple choice questions – part 1
@@ -18,5 +17,4 @@ steps:
 - title: Setting up the classroom for Peer Instruction
 - title: Teacher experience of Peer Instruction
 - title: Explore the resources
-  completion: internal
 - title: Completion survey
